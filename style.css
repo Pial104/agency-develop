@@ -181,6 +181,57 @@
     padding: 20px;
 }
 
+.make-appointment-container{
+    width: 70%;
+    background-color: crimson;
+    border-radius: 45px;
+    padding: 15px;
+    height: 130px;
+   align-items: center;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    margin-top: -80px;
+    
+    
+}
+
+.phone-logo{
+    width: 75px;
+    padding: 15px;
+}
+
+.phone-call{
+   
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+border-right: 3px solid black;
+padding: 10px;
+  
+}
+
+.make-appointment{
+    padding: 10px;
+}
+
+.appointment-button{
+    padding: 10px;
+ 
+}
+
+.appointment-button button{
+    padding: 15px 35px;
+    border-radius: 25px;
+    border: none;
+    text-transform: uppercase;
+}
+
+/* Blog section start */
+
+
+
 
 
 
