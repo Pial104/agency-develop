@@ -38,37 +38,48 @@
    background-repeat: no-repeat;
    background-position: center;
    background-size: cover;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
    height: 100vh;
    background-blend-mode: overlay;
+   
+   
    
  
 }
 
 
 .digital-banner{
-    text-align: center;
-    padding: 20px;
+   width: 100%;
+   margin: 0 auto;
     
 }
-
-.title{
+ .title{
     font-size: 90px;
-    margin-top: 250px;
-    margin-right: 250px ;
-    margin-left: 250px;
-}
+    font-weight: 900;
+
+
+  
+} 
 
 .titles{
     color: white;
     font-size: 50px;
 }
 
-.description{
+ .description{
     color: white;
-    font-size: 20px;
+    font-size: 22px;
     font-weight: 200;
+    margin: auto;
+    width: 50%;
+    margin-bottom: 10px;
+  
 
-}
+} 
 
 
 .btn{
@@ -169,5 +180,7 @@
     width: 100px;
     padding: 20px;
 }
+
+
 
 
